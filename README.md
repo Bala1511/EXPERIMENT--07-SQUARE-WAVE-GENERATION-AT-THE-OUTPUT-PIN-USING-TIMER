@@ -235,6 +235,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
+```
 FOR PULSE AT 500
 vamp=5
 TON = 10
